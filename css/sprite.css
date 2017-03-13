@@ -1,0 +1,246 @@
+.icon {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url(../images/sprite.png);
+}
+.icon-banknote {
+  width: 32px;
+  height: 32px;
+  background-position: 0 0;
+}
+.icon-bubble {
+  width: 32px;
+  height: 32px;
+  background-position: -48px 0;
+}
+.icon-bulb {
+  width: 22px;
+  height: 32px;
+  background-position: -96px 0;
+}
+.icon-calendar {
+  width: 32px;
+  height: 32px;
+  background-position: -144px 0;
+}
+.icon-camera {
+  width: 32px;
+  height: 32px;
+  background-position: -192px 0;
+}
+.icon-clip {
+  width: 32px;
+  height: 32px;
+  background-position: -240px 0;
+}
+.icon-clock {
+  width: 22px;
+  height: 32px;
+  background-position: -288px 0;
+}
+.icon-cloud {
+  width: 32px;
+  height: 32px;
+  background-position: -336px 0;
+}
+.icon-cup {
+  width: 28px;
+  height: 32px;
+  background-position: -384px 0;
+}
+.icon-data {
+  width: 28px;
+  height: 32px;
+  background-position: -432px 0;
+}
+.icon-diamond {
+  width: 32px;
+  height: 32px;
+  background-position: -480px 0;
+}
+.icon-display {
+  width: 32px;
+  height: 32px;
+  background-position: -528px 0;
+}
+.icon-eye {
+  width: 32px;
+  height: 32px;
+  background-position: -576px 0;
+}
+.icon-fire {
+  width: 22px;
+  height: 32px;
+  background-position: -624px 0;
+}
+.icon-food {
+  width: 32px;
+  height: 32px;
+  background-position: -672px 0;
+}
+.icon-heart {
+  width: 32px;
+  height: 32px;
+  background-position: -720px 0;
+}
+.icon-key {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -48px;
+}
+.icon-lab {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -48px;
+}
+.icon-like {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -48px;
+}
+.icon-location {
+  width: 24px;
+  height: 32px;
+  background-position: -144px -48px;
+}
+.icon-lock {
+  width: 24px;
+  height: 32px;
+  background-position: -192px -48px;
+}
+.icon-mail {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -48px;
+}
+.icon-megaphone {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -48px;
+}
+.icon-music {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -48px;
+}
+.icon-news {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -48px;
+}
+.icon-note {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -48px;
+}
+.icon-paperplane {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -48px;
+}
+.icon-params {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -48px;
+}
+.icon-pen {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -48px;
+}
+.icon-phone {
+  width: 22px;
+  height: 32px;
+  background-position: -624px -48px;
+}
+.icon-photo {
+  width: 30px;
+  height: 32px;
+  background-position: -672px -48px;
+}
+.icon-search {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -48px;
+}
+.icon-settings {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -96px;
+}
+.icon-shop {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -96px;
+}
+.icon-sound {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -96px;
+}
+.icon-stack {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -96px;
+}
+.icon-star {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -96px;
+}
+.icon-study {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -96px;
+}
+.icon-tag {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -96px;
+}
+.icon-trash {
+  width: 28px;
+  height: 32px;
+  background-position: -336px -96px;
+}
+.icon-truck {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -96px;
+}
+.icon-t-shirt {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -96px;
+}
+.icon-tv {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -96px;
+}
+.icon-user {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -96px;
+}
+.icon-video {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -96px;
+}
+.icon-vinyl {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -96px;
+}
+.icon-wallet {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -96px;
+}
+.icon-world {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -96px;
+}
+
